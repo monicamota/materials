@@ -1,10 +1,6 @@
 # Materiais
 
-Tópicos de estudo
-
-## Design
-
-* [História da Arte]()
+## Tópicos de estudo
 
 ## Programação
 
@@ -13,9 +9,9 @@ Tópicos de estudo
 
 ## Front End
 
-* [HTML]()
-* [CSS]()
-* [JS]()
+* [HTML](front-end/html.md)
+* [CSS](front-end/css.md)
+* [JS](front-end/javascript.md)
 
 ## Back End
 
@@ -25,3 +21,7 @@ Tópicos de estudo
 ## Carreira
 
 * [Plano de carreira e mercados emergentes]()
+
+## Design
+
+* [História da Arte](/design/history-of-the-art.md)
