@@ -8,8 +8,8 @@ Tópicos de estudo
 
 ## Programação
 
-* [Introdução a computação]()
-* [Lógica de programação]()
+* [Introdução a computação](/computer-science/intro-to-computer-science.md)
+* [Lógica de programação](/computer-science/logic.md)
 
 ## Front End
 
