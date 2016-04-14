@@ -15,8 +15,8 @@
 
 ## Back End
 
-* [Introdução a Banco de Dados]()
-* [SQL]()
+* [Introdução a Banco de Dados](back-end/intro-bd.md)
+* [SQL](back-end/sql-language.md)
 
 ## Carreira
 
