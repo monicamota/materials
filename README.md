@@ -1,6 +1,6 @@
 # Materiais
 
-Materiais de estudos com exercícios de fixação para os grupos formados no CT (Centro de Treinamento).
+Materiais de estudos baseados em tópicos com exercícios de fixação para os grupos formados no [Study Groups](https://github.com/training-center/study-groups).
 
 ## Tópicos de estudo
 
