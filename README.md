@@ -1,5 +1,7 @@
 # Materiais
 
+Materiais de estudos com exercícios de fixação para os grupos formados no CT (Centro de Treinamento).
+
 ## Tópicos de estudo
 
 ## Programação
