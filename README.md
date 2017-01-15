@@ -1,6 +1,6 @@
 # Materiais
 
-Materiais de estudos baseados em tópicos com exercícios de fixação para os grupos formados no [Study Groups](https://github.com/training-center/study-groups).
+Trilhas de estudos, links importantes e materiais do [Centro de Treinamento](https://github.com/training-center).
 
 ## Tópicos de estudo
 
